@@ -1,4 +1,3 @@
-# Javascript-Logic-Games
 # JavaScript Logic Games
 
 Welcome to the **JavaScript Logic Games** project! This repository showcases a collection of fun, interactive, and challenging logic games built entirely using JavaScript, HTML, and CSS. These games are designed to test your problem-solving skills, logical thinking, and strategy-making abilities.
